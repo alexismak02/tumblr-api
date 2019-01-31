@@ -1,0 +1,61 @@
+ul li{
+	display: inline-block;
+	margin: 2px;
+}
+
+li img{
+	max-width: 100%;
+	vertical-align: middle;
+}
+
+button {
+	box-shadow: 2px 2px 3px rgba(0,0,0,3);
+	border: none;
+	border-radius: 4px;
+	padding: 10px;
+	color: white;
+	font-size: 14px;
+	text-transform: uppercase;
+}
+
+#title {
+	font-family: Impact, Charcoal, sans-serif;
+	font-size: 50px;
+	color: rgb(255,255,255);
+	background-color: rgb(128,0,128,0.3);
+	border-radius: 8px;
+	margin-inline-start: 40px;
+	margin-top: 100px;
+	display: inline;
+}
+
+#instruction {
+	font-family: Comic Sans MS, cursive, sans-serif;
+	font-style: italic;
+	font-size: 15px;
+	color: rgb(128,0,128);
+	margin-inline-start: 40px;
+	display: inline;
+}
+
+#contact{
+	font-size: 15px;
+	float: left; 
+}
+
+#copyright{
+	font-size: 15px;
+	float: right; 
+}
+
+article{
+	background-color: rgb(216,191,216);
+	width: 100vw;
+	height: 100vw;
+}
+
+body{
+	width: 100vw;
+	height: 100vw;
+}
+
